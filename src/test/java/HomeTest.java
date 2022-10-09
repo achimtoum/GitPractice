@@ -5,4 +5,5 @@ public class HomeTest {
     String email = "chris@test.com";
     int phone = 55555;
     String lastName = "Chimt";
+    String nickName = "Toon";
 }
