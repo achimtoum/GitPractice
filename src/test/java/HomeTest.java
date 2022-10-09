@@ -4,4 +4,5 @@ public class HomeTest {
     int id = 1;
     String email = "chris@test.com";
     int phone = 55555;
+    String lastName = "Chimt";
 }
